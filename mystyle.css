@@ -6,7 +6,7 @@ p{
 }
 .hy{
     font-size: 400%;
-    color:goldenrod;
+    color:rgb(251, 255, 30);
     
 }
 body{
@@ -31,4 +31,22 @@ button{
     width: 150px;
     font-size:25px;
    
+}
+img{
+    width: 150px;
+    height: 200px;
+    border-radius: 3%;
+}
+#messagea{
+    color:goldenrod;
+} 
+body{
+    background-image:url(table.png);
+}
+#show{
+    color:rgb(251, 255, 30);
+
+}
+#add{
+    color:rgb(251, 255, 30);
 }
