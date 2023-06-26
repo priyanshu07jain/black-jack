@@ -42,6 +42,7 @@ img{
 } 
 body{
     background-image:url(table.png);
+    background-image:non-reapeatable;
 }
 #show{
     color:rgb(251, 255, 30);
