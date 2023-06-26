@@ -42,7 +42,7 @@ img{
 } 
 body{
     background-image:url(table.png);
-    background-image:non-reapeatable;
+    background-repeat:non-repeat;
 }
 #show{
     color:rgb(251, 255, 30);
